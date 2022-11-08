@@ -1,4 +1,3 @@
-
 // Named Parameters
 // write a function that takes two named parameters:
 // print each named parameter,
