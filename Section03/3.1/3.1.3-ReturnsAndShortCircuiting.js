@@ -5,7 +5,9 @@ function myNumberFunction() {
   num = num % 4;
   num = num * 14;
   console.log(num);
+  return num;
 }
+myNumberFunction();
 
 // change the function above to return a value
 
@@ -23,11 +25,13 @@ let height = 50;
 function checkCircusRides() {
   if (height < 48) {
     console.log("Take a ride on the carousel!");
+    return;
   }
   if (height < 60) {
     console.log("Try the bumper cars!");
   }
   console.log("Enjoy the roller coaster!");
+  return;
 }
 
 // change the function above to use short circuiting
