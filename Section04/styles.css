@@ -8,6 +8,7 @@ body {
   color: #D9D0DE;
   font-size: 1.2em;
   font-weight: 600;
+  cursor: pointer;
 }
 
 nav > ul > li {
