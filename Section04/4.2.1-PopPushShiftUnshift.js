@@ -7,3 +7,11 @@ let shiftNums2 = nums.shift();
 // remove each of the first two items with shift(), saving each item to a variable
 
 // use push and unshift to add the variables back to the array in numerical order, 0-6
+
+
+
+let popreturn1 = nums.pop();
+let popreturn2 = nums.pop();
+
+let shiftreturn1 = nums.shift();
+let shiftreturn2 = nums.shift();
