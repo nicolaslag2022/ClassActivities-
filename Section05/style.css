@@ -24,7 +24,10 @@ body > form {
 
 /* Activity 5.2: Media queries
   -Add CSS for when screen size is less than 700px */
+@media print {
 
+  border: red ;
+}
 
 /* Activity 5.3: Media queries
   -Add CSS that checks for device hover capabilities */
